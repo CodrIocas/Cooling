@@ -1,1 +1,1 @@
-# Data and MATLAB code for mantle cooling.
+# The model of mantle cooling.
